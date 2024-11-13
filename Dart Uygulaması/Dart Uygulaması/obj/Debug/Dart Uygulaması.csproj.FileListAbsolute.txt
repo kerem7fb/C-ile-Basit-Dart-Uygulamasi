@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\bin\Debug\Dart Uygulaması.exe.config
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\bin\Debug\Dart Uygulaması.exe
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\bin\Debug\Dart Uygulaması.pdb
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart_Uygulaması.Form1.resources
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart_Uygulaması.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart Uygulaması.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart Uygulaması.exe
+C:\Users\user\Desktop\10-M\Dart Uygulaması\Dart Uygulaması\obj\Debug\Dart Uygulaması.pdb
